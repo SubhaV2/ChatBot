@@ -1,2 +1,2 @@
 # ChatBot
-A simple Chat Bot  made with Python
+A simple Chat Bot  made in Python
