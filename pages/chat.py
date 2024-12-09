@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 # Create Groq client
-client = Groq(api_key="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")
+client = Groq(api_key="PUT_API_KEY_HERE")
 
 # Session State Dictionary
 print(st.session_state)
